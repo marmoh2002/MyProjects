@@ -1,0 +1,18 @@
+Script to control live video flow with the following instructions
+g - convert to greyscale video .
+n - convert to colored video .
+s - save image .
+v - start recording video .
+b - stop recording video .
+q or ESC - quit .
+p - pause display .
+o - continue display .
+BONUS -
+t - draw rectangle with two left clicks on video .
+c - draw circle with one click with constant radius or two clicks variable
+radius .
+l - draw line with two clicks, and draw as many lines as you want .
+i - draw roi of place you want on the screen with two left clicks and
+display it in the top left corner of the screen, make roi scalable with +
+and - .
+r - reset the drawn lines and roi.
